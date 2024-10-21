@@ -29,5 +29,3 @@ export function calculatePasswordStrength(password: string): string {
         return "Strong";
     }
 }
-
-
