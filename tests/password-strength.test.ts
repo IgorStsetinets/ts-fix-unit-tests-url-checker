@@ -26,3 +26,4 @@ describe('Password Strength Tests', () => {
         expect(calculatePasswordStrength('password1234')).toBe('Moderate');
     });
 });
+
